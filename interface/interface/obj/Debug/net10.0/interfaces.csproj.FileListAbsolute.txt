@@ -1,0 +1,14 @@
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\bin\Debug\net10.0\interfaces.exe
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\bin\Debug\net10.0\interfaces.deps.json
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\bin\Debug\net10.0\interfaces.runtimeconfig.json
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\bin\Debug\net10.0\interfaces.dll
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\bin\Debug\net10.0\interfaces.pdb
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\interfaces.AssemblyInfo.cs
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\interfaces.dll
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\refint\interfaces.dll
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\interfaces.pdb
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\interfaces.genruntimeconfig.cache
+C:\Users\Jeronimo\Desktop\computational\c-shard\interface\interface\obj\Debug\net10.0\ref\interfaces.dll
