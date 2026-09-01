@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+82YLcgQD4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeronimo\\Desktop\\DemoOpenClosePrinciple\\DemoOpenClosePrinciple\\DemoOpenClosePrinciple\\DemoOpenClosePrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeronimo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\Jeronimo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\Jeronimo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\Jeronimo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.30\\microsoft.netcore.app.host.win-x64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
